@@ -8,7 +8,7 @@ ShowTime is a web application designed  to simplify the process of booking movie
 ## Project Type
 Frontend
 
-## Deplolyed App
+## Deployed App
 Frontend: https://showtime-moviebookingapp.netlify.app/
 
 ## Directory Structure
